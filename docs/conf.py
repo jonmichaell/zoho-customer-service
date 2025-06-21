@@ -1,4 +1,4 @@
-project = 'PeacocktvGuide12'
+project = 'zoho customer service'
 author = 'Your Name'
 release = '1.0'
 
