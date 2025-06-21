@@ -11,7 +11,7 @@ Zoho has grown into a leading provider of cloud-based business solutions, offeri
 
 In this article, we’ll explore the best ways to get in touch with Zoho Customer Service, what to expect, and tips to make your interaction smoother and more productive.
 
-.. image:: service-now.png
+.. image:: service-now.gif
    :alt: My Project Logo
    :width: 400px
    :align: center
